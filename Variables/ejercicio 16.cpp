@@ -13,7 +13,7 @@ int main(){
 	
 	promedio = (nota1 + nota2 + nota3)/3;
 	cout<<"El promedio es "<<promedio<<endl;
-	
+	cout<<"Gracias vuelva prontos";	
 	
 	
 	
